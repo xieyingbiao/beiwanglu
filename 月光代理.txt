@@ -7,3 +7,4 @@
 域名一旦被污染（每一个月污染一次）将会实时更新到导航站
 https://www.flyint.in/#/plan/26
 https://dassty.com/user
+本站备用域名 flyintx.com
